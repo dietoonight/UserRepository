@@ -1,0 +1,4 @@
+org\example\Configuration\ApplicationConfig.class
+org\example\User.class
+org\example\UserRepository.class
+org\example\Profiles\HashMapUserRepository.class
